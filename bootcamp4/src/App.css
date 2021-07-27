@@ -1,34 +1,29 @@
-.box {
-  height: 500px;
-  background-color: rgb(0, 0, 0);
+.Counter{
+  background-color: goldenrod;
+  }
+  .box{
   color: white;
-}
- 
-
-
-.dayLight {
-  background-color: rgb(255, 255, 59);
-  color: black;
-}
-.butt1{
-  padding:10px;
-  margin-left: 550px;
-  color:white ;
-  background-color: rgb(113, 0, 241);
-}
-
-.butt2{
-  padding:10px;
-  width: 120px;
-  color:white ;
-  background-color: rgb(113, 0, 241);
-margin-left: 30px;
-}
-
-.butt1:hover{
-  color: red;
-}
-
-.butt2:hover{
-  color: red;
-}
+  background-color: black;
+  }
+  
+  .day{
+    color: black;
+    background-color: rgb(252, 252, 102);
+  }
+  
+  .butt2{
+    padding: 14px;
+    background-color: blue;
+    color: wheat;
+  }
+  .butt2:hover{
+    color: rgb(253, 66, 19);
+  }
+  .butt{
+    padding: 10px;
+    background-color: blue;
+    color: wheat;
+  }
+  .butt:hover{
+    color: rgb(253, 66, 19);
+  }
