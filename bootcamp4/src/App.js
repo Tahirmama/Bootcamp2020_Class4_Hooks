@@ -7,6 +7,7 @@ function App() {
   return(
 <div>
 <Counter/>
+<hr/>
 <Time />
 
     </div>
